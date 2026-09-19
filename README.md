@@ -30,10 +30,10 @@ can actually run.
 
 ```text
 ┌─ SPECIALIZATION ────────────────────────────────────────────────────┐
-│  Backend reliability   AI product systems   Developer tooling        │
+│  Backend reliability   AI product systems   Developer tooling       │
 ├─ PRIMARY LOADOUT ───────────────────────────────────────────────────┤
 │  React · TypeScript · Node.js · Python · C# · .NET                  │
-│  MongoDB · MySQL · Firebase · REST APIs                              │
+│  MongoDB · MySQL · Firebase · REST APIs                             │
 ├─ OPERATING PRINCIPLE ───────────────────────────────────────────────┤
 │  Understand the problem → design the system → ship the useful part  │
 └─────────────────────────────────────────────────────────────────────┘
