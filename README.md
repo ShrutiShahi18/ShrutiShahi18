@@ -1,44 +1,36 @@
-# Hi, I'm Shruti Shahi 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:172554,100:7c3aed&height=190&section=header&text=SHRUTI%20SHAHI&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20ENGINEER%20%2F%20AI%20BUILDER&descAlignY=57&descSize=16"
+    alt="Shruti Shahi — Full-stack engineer and AI builder"
+    width="100%"
+  />
+</p>
 
-I'm a Computer Science engineering student and full-stack developer building
-scalable backend systems, AI-powered products, and developer tools.
+<p align="center">
+  <samp>PROFILE // FULL-STACK ENGINEER // BUILDING SYSTEMS THAT SHIP</samp>
+</p>
 
-- 🎓 B.Tech in Computer Science at IIIT Bhagalpur
-- 💻 React, TypeScript, Node.js, Python, C#, .NET, and REST APIs
-- 🗄️ MongoDB, PostgreSQL, Firebase, and distributed backend systems
-- 🤖 OpenAI and Gemini integrations, AI automation, and developer tooling
-- 🌱 Open-source contributor and MLH Fellow
-- 🧠 1000+ DSA problems solved
+<p align="center">
+  <a href="https://github.com/ShrutiShahi18">
+    <img src="https://img.shields.io/badge/GITHUB-SHRUTISHAHI18-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="mailto:yoshruti18@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT-EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Shruti" />
+  </a>
+  <!-- Replace YOUR_LINKEDIN_URL before publishing -->
+  <a href="linkedin.com/in/shruti-shahi180803/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" />
+  </a>
+</p>
 
-## Featured projects
+<br />
 
-### [OmniMarketX](https://github.com/ShrutiShahi18/OmniMarketX-Redesign-Feature-Tweaks)
+## `// PLAYER PROFILE`
 
-A full-stack social prediction-market application with Firebase
-authentication, MongoDB persistence, trading workflows, portfolios, and a
-social feed.
-
-### [PitchPilot](https://github.com/ShrutiShahi18/PitchPilot)
-
-An AI-powered outreach platform for personalized recruiter emails, scheduling,
-response tracking, and follow-up automation using OpenAI and Gmail APIs.
-
-### AzzuroIQ
-
-An AI-powered hotel analytics platform with interactive dashboards, review
-analysis, OpenAPI-based contracts, and deterministic fallbacks for AI-service
-failures.
-
-## Open source
-
-I have contributed to developer tooling and accessibility-focused projects,
-including Bruno API Client and Cboard localization for Hindi-speaking users.
-
-## Currently focused on
-
-- Backend reliability and API design
-- AI-assisted developer workflows
-- Full-stack products with real persistence and authentication
-- Clear documentation, testing, and CI/CD
-
-[GitHub](https://github.com/ShrutiShahi18) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:yoshruti18@gmail.com)
+```text
+NAME       Shruti Shahi
+ROLE       Full-stack engineer
+FOCUS      Backend reliability · AI products · developer tooling
+BASE       React · TypeScript · Node.js · Python · C# · .NET
+DATA       MongoDB · PostgreSQL · Firebase
+MODE       Build, test, ship, improve
