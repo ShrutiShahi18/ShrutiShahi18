@@ -1,0 +1,91 @@
+<svg width="1400" height="430" viewBox="0 0 1400 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="700" y1="0" x2="700" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A110C"/>
+      <stop offset="0.5" stop-color="#020503"/>
+      <stop offset="1" stop-color="#010201"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1A10" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#030704" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="limeLine" x1="180" y1="0" x2="1220" y2="0">
+      <stop stop-color="#65FF4B" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#65FF4B"/>
+      <stop offset="1" stop-color="#65FF4B" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <clipPath id="window">
+      <rect x="32" y="32" width="1336" height="366" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1400" height="430" fill="#010201"/>
+  <rect x="32" y="32" width="1336" height="366" rx="12" fill="url(#bg)" stroke="#284F2A" stroke-width="1.5"/>
+  <rect x="32" y="32" width="1336" height="36" rx="12" fill="#0A120C"/>
+  <path d="M32 68H1368" stroke="#284F2A"/>
+
+  <g fill="#4E9C55">
+    <circle cx="58" cy="50" r="5"/>
+    <circle cx="78" cy="50" r="5"/>
+    <circle cx="98" cy="50" r="5"/>
+  </g>
+  <text x="132" y="55" fill="#7FBF83" font-family="monospace" font-size="12" letter-spacing="2">SHRUTI@GITHUB: ~ / PROFILE_CONSOLE</text>
+  <text x="1282" y="55" fill="#65FF4B" font-family="monospace" font-size="11">ONLINE</text>
+
+  <g clip-path="url(#window)">
+    <g opacity="0.18" stroke="#65FF4B">
+      <path d="M32 106H1368M32 144H1368M32 182H1368M32 220H1368M32 258H1368M32 296H1368M32 334H1368M32 372H1368"/>
+      <path d="M140 68V398M260 68V398M380 68V398M500 68V398M620 68V398M740 68V398M860 68V398M980 68V398M1100 68V398M1220 68V398"/>
+    </g>
+
+    <g font-family="monospace" font-size="12" fill="#65FF4B" opacity="0.33">
+      <g>
+        <text x="65" y="120">01</text><text x="65" y="140">10</text><text x="65" y="160">11</text><text x="65" y="180">01</text><text x="65" y="200">00</text><text x="65" y="220">11</text><text x="65" y="240">10</text><text x="65" y="260">01</text><text x="65" y="280">11</text>
+        <animateTransform attributeName="transform" type="translate" values="0 -80;0 90;0 -80" dur="6s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <text x="1320" y="105">10</text><text x="1320" y="125">01</text><text x="1320" y="145">00</text><text x="1320" y="165">11</text><text x="1320" y="185">01</text><text x="1320" y="205">10</text><text x="1320" y="225">11</text><text x="1320" y="245">00</text>
+        <animateTransform attributeName="transform" type="translate" values="0 90;0 -80;0 90" dur="5s" repeatCount="indefinite"/>
+      </g>
+      <g>
+        <text x="112" y="310">01001101</text><text x="112" y="326">11001010</text><text x="112" y="342">00110111</text>
+      </g>
+      <g>
+        <text x="1172" y="310">11010010</text><text x="1172" y="326">00101101</text><text x="1172" y="342">10111000</text>
+      </g>
+    </g>
+
+    <rect x="185" y="96" width="1030" height="240" rx="6" fill="url(#panel)" stroke="#3B823F"/>
+    <path d="M185 134H1215" stroke="#3B823F"/>
+    <text x="210" y="121" fill="#A8EAA5" font-family="monospace" font-size="12" letter-spacing="2">SECURE SHELL // PUBLIC PROFILE // BUILD MODE</text>
+    <circle cx="1180" cy="116" r="5" fill="#65FF4B" filter="url(#glow)"/>
+
+    <text x="225" y="166" fill="#65FF4B" font-family="monospace" font-size="14">$ whoami</text>
+    <text x="225" y="188" fill="#E6F9E4" font-family="monospace" font-size="17" font-weight="bold">SHRUTI SHAHI</text>
+    <text x="225" y="210" fill="#91C991" font-family="monospace" font-size="13">full-stack engineer / backend systems / AI products</text>
+
+    <text x="225" y="246" fill="#65FF4B" font-family="monospace" font-size="14">$ ./current_mission</text>
+    <text x="225" y="268" fill="#E6F9E4" font-family="monospace" font-size="14">build useful systems that survive the demo</text>
+    <text x="225" y="290" fill="#91C991" font-family="monospace" font-size="12">react · node · typescript · python · c# · .net · mongodb · mysql</text>
+    <text x="225" y="313" fill="#65FF4B" font-family="monospace" font-size="14">$ <tspan fill="#E6F9E4">_</tspan><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></text>
+
+    <path d="M190 365H1210" stroke="url(#limeLine)" stroke-width="2" filter="url(#glow)"/>
+    <text x="210" y="386" fill="#4E9C55" font-family="monospace" font-size="10" letter-spacing="1">AUTH: PUBLIC</text>
+    <text x="645" y="386" fill="#4E9C55" font-family="monospace" font-size="10" letter-spacing="1">SIGNAL: BUILDING</text>
+    <text x="1085" y="386" fill="#65FF4B" font-family="monospace" font-size="10" letter-spacing="1">STATUS: SHIPPING</text>
+
+    <rect x="32" y="68" width="1336" height="2" fill="#65FF4B" opacity="0.45">
+      <animate attributeName="y" from="68" to="398" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
