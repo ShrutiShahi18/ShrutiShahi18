@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/ShrutiShahi18">GitHub</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shruti-shahi180803">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shruti-shahi180803/">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:yoshruti18@gmail.com">Email</a>
 </div>
@@ -99,6 +99,8 @@ multi-user data.
 `React` `Node.js` `MongoDB` `OpenAI` `Gmail API`
 
 [View source](https://github.com/ShrutiShahi18/PitchPilot)
+
+[Open live product](https://pitchpilotpitchpilot.onrender.com/)
 
 </td>
 </tr>
